@@ -14,26 +14,24 @@ let questions = [{
     correct: "True"
   },{
     
-    question: "",
-    answer1: "To hit",
-    answer2: "The art of fighting",
-    answer3: "Fighter",
-    answer4: "Empty hand",
-    correct: "Empty hand"
+    question: "How do you feel about coding?",
+    answer1: "Spicy",
+    answer2: "False",
+    answer3: "Super",
+    answer4: "Yeah yeah yeah",
+    correct: "Spicy"
   },{
-    question: "Where French fries were invented?",
-    answer1: "Belgium",
-    answer2: "France",
-    answer3: "Germany",
-    answer4: "Mexico",
-    correct: "Belgium"
+    question: "Can you walk and chew gum at the same time?",
+    answer1: "Yes of course",
+    answer2: "No of course",
+    answer3: "Of course I can",
+    answer4: "Of course I can't",
+    correct: "Of course I can't"
   },{
-    question: "In wich year Halley's Comet will appear again?",
-    answer1: "2026",
-    answer2: "2061",
-    answer3: "2080",
-    answer4: "3012",
-    correct: "2061"
+    question: "Ok, back to coding. How do you pronounce Reeces?",
+    answer1: "Reece + is",
+    answer2: "Reece + ees",
+    correct: "Reece + is! They're Reece's Pieces!"
   }];
   
   // Timing code below
