@@ -11,6 +11,8 @@ let questions = [{
     question: "Javascript is an event-driven and functional language.",
     answer1: "True",
     answer2: "False",
+    answer3: "Sometimes",
+    answer4: "Never",
     correct: "True"
   },{
     
@@ -31,6 +33,8 @@ let questions = [{
     question: "Ok, back to coding. How do you pronounce Reeces?",
     answer1: "Reece + is",
     answer2: "Reece + ees",
+    answer3: "Reece + ers",
+    answer4: "Reece + ars",
     correct: "Reece + is! They're Reece's Pieces!"
   }];
   

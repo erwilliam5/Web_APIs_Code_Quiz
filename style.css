@@ -76,8 +76,8 @@ body {
         padding: 10px;
     }
     
-    #theTottaly {
-        color: #FFF200;
+    #backToQuiz {
+        color: #233828;
     }
     
     #header {
@@ -100,7 +100,7 @@ body {
     }
     
     @media (max-width: 1206px){
-        #imagenDisplay {
+        #imageDisplay {
             display: none;
         }
     
@@ -114,7 +114,7 @@ body {
         .jumbotron {
             height: 100%;
         }
-        #imagen1 {
+        #image1 {
             float: right;
         }
         #cardMedia {
